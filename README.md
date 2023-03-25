@@ -15,4 +15,4 @@
 - Реакции на посты
 - Количество просмотров на посте
 
-Реализация бота написана в [tg_news_bot.py]('https://github.com/t1ps9/news_bot/blob/main/tg_news_bot.py')
+Реализация бота написана в [tg_news_bot.py](https://github.com/t1ps9/news_bot/blob/main/tg_news_bot.py)
